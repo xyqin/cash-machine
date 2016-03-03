@@ -1,1 +1,1 @@
-# cash-machine
+# cash-register
